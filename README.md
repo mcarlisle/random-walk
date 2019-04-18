@@ -3,12 +3,6 @@ random walk visualizations in Processing, calculation tools in R
 
 -----
 
-TASEP-1D (Totally Asymmetric Simple Exclusion Process) one-dimensional simulation/visualization (2016)
-
-I used this for undergraduate independent study projects in studying the NYC MTA's subway traffic.
-
------
-
 grid_stochastic_rw_1d, grid_stochastic_rw
 
 stochastic time random walk, 1-dim and 2-dim (2012-2014)
@@ -18,6 +12,12 @@ This is supporting code for research on stochastic time random walks, written an
 The grid code at the bottom (as in the TASEP visualization) is from https://forum.processing.org/beta/num_1195788276.html
 
 Modify the mean for the best effect - compare mean zero versus nonzero.
+
+-----
+
+TASEP-1D (Totally Asymmetric Simple Exclusion Process) one-dimensional simulation/visualization (2016)
+
+I used this for undergraduate independent study projects in studying the NYC MTA's subway traffic.
 
 -----
 
